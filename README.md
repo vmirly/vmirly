@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Vahid Mirjalili. I obtained my PhD in computer science at Michigan State University.
+- 👋 Hi, I’m Vahid Mirjalili, a machine learning research scientist. 
+- I obtained my PhD in computer science at Michigan State University.
 - 👀 I’m interested in deep learning, computer vision and NLP. 
 - 🌱 I’m currently learning 
 
