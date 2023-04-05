@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vahid Mirjalili, a machine learning research scientist. 
 - I obtained my PhD in computer science at Michigan State University.
 - 👀 I’m interested in deep learning, computer vision and NLP. 
-- 🌱 I’m currently learning 
+- 🌱 https://linktr.ee/vmirly
 
 <!---
 vmirly/vmirly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
